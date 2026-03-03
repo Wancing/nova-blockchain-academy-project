@@ -43,7 +43,7 @@ Traditional QR codes lack built-in authenticity verification, making them vulner
 3. **Full Product**: Reputation systems, token incentives, loyalty mechanisms, strategic partnerships  
 
 ## Full Report
-**Complete project documentation (21 pages):**  
+**Complete project documentation (7 pages):**  
 Available in this repository as `SafeCode-Project-Blockchain-Academy.pdf` or via [Google Docs link](https://docs.google.com/document/d/1Xoj5xyMDtYg6ZhZ3XdO3idoDRwFmAOqN3qz7wGw2_5M).
 
 ## Technologies
